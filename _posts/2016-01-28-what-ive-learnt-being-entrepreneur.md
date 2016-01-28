@@ -6,29 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T00:16:37.232Z'
-dateModified: '2016-01-28T00:15:29.670Z'
+datePublished: '2016-01-28T00:19:39.133Z'
+dateModified: '2016-01-28T00:19:33.993Z'
 title: What I’ve learnt being entrepreneur
 author: []
+sourcePath: _posts/2016-01-28-what-ive-learnt-being-entrepreneur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-what-ive-learnt-being-entrepreneur.md
-published: true
 url: what-ive-learnt-being-entrepreneur/index.html
 _type: Article
 
 ---
-# [What I've learnt being entrepreneur][0]
+# What I've learnt being entrepreneur
 
 Being entrepreneur, aka being boss of your own, is certainly not conventional. For some, having a structured job and proper career path set out from beginning is clearly the right option. For me, paving my own path is the only choice I know ever since I'm aware that I need to do something about my life.
 
-The journey has been no doubt full of challenges and occasionally I turned to what I classify as "[entrepreneur porn][1]" to give myself a pat in the back, since no one can. It's not exactly easy to explain the daily or weekly shit-storm one must get through, much less expecting someone else to empathise.
+The journey has been no doubt full of challenges and occasionally I turned to what I classify as "[entrepreneur porn][0]" to give myself a pat in the back, since no one can. It's not exactly easy to explain the daily or weekly shit-storm one must get through, much less expecting someone else to empathise.
 
-So despite having only computer-science background and only ran my businesses for couple of years, I've reach a point where the past small achievements brought me enough confidence to pen down the thoughts I've learnt from the process and hopefully it won't be just-another-entrepreneur-porn piece. My observations are usually[controversial][2]and I expect no less from what follows next.
+So despite having only computer-science background and only ran my businesses for couple of years, I've reach a point where the past small achievements brought me enough confidence to pen down the thoughts I've learnt from the process and hopefully it won't be just-another-entrepreneur-porn piece. My observations are usually[controversial][1]and I expect no less from what follows next.
 
 ### On communication
 
@@ -72,6 +72,5 @@ Saying the wrong thing at the right time is equally damaging if not worse. Makin
 With this, it connects all of above together in one theme: I believe that being entrepreneur is about making great sacrifices to deliver the right messages at the right time.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5d269f3-238b-4135-b5a6-a44bf725d7cb.jpg)
 
-[0]: http://kentnguyen.com/personal/what-i-ve-learnt-being-entrepreneur/
-[1]: http://yongfook.com/reading-entrepreneur-porn-is-fucking-your-life-up.html
-[2]: http://kentnguyen.com/personal/getting-rid-burnouts/ "My secret to getting rid of burnout permanently"
+[0]: http://yongfook.com/reading-entrepreneur-porn-is-fucking-your-life-up.html
+[1]: http://kentnguyen.com/personal/getting-rid-burnouts/ "My secret to getting rid of burnout permanently"
