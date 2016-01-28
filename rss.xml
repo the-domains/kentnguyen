@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KentNguyen]]></title>
+        <description><![CDATA[KentNguyen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 00:16:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What I’ve learnt being entrepreneur]]></title>
+            <description><![CDATA[<article><h1>What I’ve learnt being entrepreneur</h1><h2>On communication</h2><p>Being entrepreneur, aka being boss of your own, is certainly not conventional. For some, having a structured job and proper career path set out from beginning is clearly the right option. For me, paving my own path is the only choice I know ever since I’m aware that I need to do something about my life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/456a060f8c91a0babcf485f2c5e7ddc478e7d052.jpg"></article>]]></description>
+            <link>undefinedwhat-ive-learnt-being-entrepreneur/index.html</link>
+            <guid isPermaLink="false">79358861-1c31-4ad1-b043-2f59356edcc8</guid>
+            <pubDate>Thu, 28 Jan 2016 00:16:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
