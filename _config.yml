@@ -2,12 +2,13 @@ name: KentNguyen
 favicon: null
 layout_spectrum: 0.5551498509012163
 typography_spectrum: 0.41595876193605363
+title: 'Veteran Web and iOS developer, now a free soul'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-21645120-1
   facebook: null
   twitter: null
 opengraph:
